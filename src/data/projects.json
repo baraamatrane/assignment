@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "name": "Website Redesign",
+    "client": "Acme Corp",
+    "status": "Active",
+    "startDate": "2025-09-15",
+    "endDate": "2026-03-30",
+    "description": "Complete redesign of the corporate website including new branding, responsive layouts, and improved accessibility compliance.",
+    "budget": 48000
+  },
+  {
+    "id": 2,
+    "name": "Mobile App MVP",
+    "client": "FinTech Solutions",
+    "status": "Active",
+    "startDate": "2025-11-01",
+    "endDate": "2026-06-15",
+    "description": "Build a minimum viable product for a personal finance tracking mobile application with budgeting and expense categorization.",
+    "budget": 72000
+  },
+  {
+    "id": 3,
+    "name": "Data Migration & Legacy System Decommissioning Project for Enterprise Resource Planning",
+    "client": "GlobalTrade Inc.",
+    "status": "Completed",
+    "startDate": "2025-01-10",
+    "endDate": "2025-08-20",
+    "description": "Migrate 12 years of transactional data from on-premise SQL Server to cloud-hosted PostgreSQL and decommission legacy ERP modules.",
+    "budget": 120000
+  },
+  {
+    "id": 4,
+    "name": "Internal HR Portal",
+    "client": "BrightPath Consulting",
+    "status": "On Hold",
+    "startDate": "2025-06-01",
+    "endDate": null,
+    "description": null,
+    "budget": 35000
+  },
+  {
+    "id": 5,
+    "name": "E-Commerce Platform",
+    "client": "Urban Threads",
+    "status": "Active",
+    "startDate": "2025-10-20",
+    "endDate": "2026-05-01",
+    "description": "Full-stack e-commerce platform with inventory management, payment processing, and real-time order tracking.",
+    "budget": 95000
+  },
+  {
+    "id": 6,
+    "name": "Analytics Dashboard",
+    "client": "DataPulse",
+    "status": "Completed",
+    "startDate": "2025-03-01",
+    "endDate": "2025-09-30",
+    "description": "Real-time analytics dashboard for monitoring KPIs, user engagement metrics, and revenue trends with interactive charts.",
+    "budget": 54000
+  },
+  {
+    "id": 7,
+    "name": "CRM Integration",
+    "client": "Vertex Solutions",
+    "status": "On Hold",
+    "startDate": "2025-08-15",
+    "endDate": null,
+    "description": "Integrate Salesforce CRM with internal project management and invoicing systems via REST APIs.",
+    "budget": null
+  },
+  {
+    "id": 8,
+    "name": "Cloud Infrastructure Setup",
+    "client": "NovaTech",
+    "status": "Active",
+    "startDate": "2026-01-05",
+    "endDate": "2026-07-31",
+    "description": "Design and provision AWS infrastructure including VPC, ECS clusters, RDS instances, and CI/CD pipelines with Terraform.",
+    "budget": 68000
+  },
+  {
+    "id": 9,
+    "name": "Brand Identity Refresh",
+    "client": "Solaris Media",
+    "status": "Completed",
+    "startDate": "2025-04-10",
+    "endDate": "2025-07-15",
+    "description": "Comprehensive brand refresh including new logo, color palette, typography system, and brand guidelines document.",
+    "budget": 28000
+  },
+  {
+    "id": 10,
+    "name": "API Gateway",
+    "client": "ConnectHub",
+    "status": "Active",
+    "startDate": "2026-02-01",
+    "endDate": "2026-08-30",
+    "description": "Centralized API gateway with rate limiting, authentication, request routing, and monitoring for microservices architecture.",
+    "budget": 82000
+  }
+]
